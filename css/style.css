@@ -1,0 +1,44 @@
+.container {
+    padding: 1px;
+    margin: auto;
+    background: #D09840;
+    border: 1px solid;   
+}
+body {
+    background:#ffdda6;
+    padding: auto;  
+}
+header h1 {
+    border: 1px solid;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px;
+}
+header ul li a {
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+td {
+    text-align: center;
+}
+.poto {
+   text-align: center;
+}
+.garis {
+    padding: 1px;
+    margin:auto;
+    background: #D09840;
+    border: 1px solid;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 105%;
+}
+
+button {
+    margin-top: 90px;
+}
